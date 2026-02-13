@@ -2,7 +2,8 @@
 Quick Intro: A Single script, that will enable you the installation of MS Office installable on Ubuntu Desktop.
 
 Here’s a single script, developed by me, that you can use to set up LinOffice on Ubuntu and automatically create desktop shortcuts for Word, Excel, and PowerPoint.
-This script installs a legitimate copy(almost like BYOL) of MS Office from the original CDN in a container. This customized software is most popularly known as "LinOffice", which was NOT developed by me. This script initiates installation and creates shortcuts natively on your linux desktop.
+This script installs a legitimate copy(almost like BYOL) of MS Office from the original CDN in a container. This customized software is most popularly known as "LinOffice", which was NOT developed by me. 
+This script initiates installation and creates shortcuts natively on your linux desktop.
 
 Use this as install_linoffice.sh and run it with bash.
 
